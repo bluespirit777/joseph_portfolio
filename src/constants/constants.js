@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'SQL Customer Support Ticketing System',
-    description: "In this project, I developed a customer support ticketing system using SQL to manage and track support tickets effectively. I designed and implemented a relational database with tables for users, tickets, comments, and ticket statuses. Key functionalities included ticket submission, status updates, comment addition, and report generation. I created and executed SQL queries for core operations and integrated the database with a user interface to facilitate seamless interaction.",
-    image: '/images/SQL.jpg',
-    tags: ['SQL', 'HTML', 'Javascript', 'CSS#'],
+    title: 'SIEM Home Lab',
+    description: "In this project, I configured Elastic Stack SIEM in a home lab environment, deploying a Kali Linux virtual machine and setting up Elastic Agents for log collection and forwarding data for security monitoring. Using Nmap, I simulated and analyzed security events, querying the SIEM to identify and investigate incidents. Additionally, I designed a custom dashboard to visualize security events and created alert rules to detect specific threats. This project enhanced my skills in network security monitoring, threat detection, and incident response while demonstrating my ability to work with advanced cybersecurity tools.",
+    image: '/images/siem.png',
+    tags: ['Elastic Stack', 'Kali Linux', 'VMs', 'Alerting Systems'],
     // source: 'https://google.com',
     // visit: 'https://google.com',
     id: 0,
@@ -37,19 +37,19 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 'Splunk', text: '', },
-  { year: 'Wireshark', text: '', },
-  { year: 'Ticket Systems', text: '', },
-  { year: 'SIEM', text: '', },
-  { year: 'Remote Desktop', text: '', },
+export const TimeLineData1 = [
+  { year: 'Troubleshooting Skills', text: '  ', },
+  { year: ' Customer Service', text: '  ', },
+  { year: ' Security Practices', text: '  ', },
+  { year: ' Operating Systems', text: '  ', },
+  { year: ' Hardware Installation', text: '  ', },
 ];
 
 
-export const TimeLineData1 = [
+export const TimeLineData = [
   { year: 'Cybersecurity and Information Assurance', text: 'B.S. -in progress at Western Governors University', },
-  { year: 'Comptia A+ Certfication', text: '09/08/2024 - Core 2', },
-  { year: 'Google IT Support Certificate', text: '04/24/24 - Obtained through Coursera', },
+  { year: 'Comptia A+ Certfication', text: '12/21/2024', },
+  { year: 'Google IT Support Certificate', text: '04/24/24', },
   { year: 'High School Diploma', text: '2013 - Cesar Chavez High School', },
   
 ];

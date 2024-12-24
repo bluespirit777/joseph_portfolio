@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        With a solid foundation in IT and cybersecurity, I bring a unique blend of technical expertise and proactive problem-solving skills to ensure robust system security and seamless operations for your organization.
+      I am a dedicated student passionate about launching a career in IT. I continuously expand my expertise through certifications, hands-on projects, and academic coursework. With strong problem-solving skills and a diligent work ethic, I thrive in tackling complex challenges and delivering effective solutions.
       </SectionText>
       <Button onClick={() => window.open('/resume.pdf', '_blank')}>
         View My Resume

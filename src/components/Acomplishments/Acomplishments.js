@@ -43,8 +43,8 @@ const Education = () => {
   }, []);
 
   return (
-    <Section id="education">
-      <SectionTitle>Education and Certificates</SectionTitle>
+    <Section id="Skills">
+      <SectionTitle>Skills</SectionTitle>
       <SectionText> 
         
       </SectionText>
